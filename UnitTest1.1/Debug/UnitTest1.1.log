@@ -1,0 +1,4 @@
+﻿  UnitTest1.1.cpp
+F:\ООП\Тема 1\Lab_1.1_\Lab_1.1\Lab_1.1\Progression.cpp(54,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+     Creating library F:\ООП\Тема 1\Lab_1.1_\Lab_1.1\Debug\UnitTest1.1.lib and object F:\ООП\Тема 1\Lab_1.1_\Lab_1.1\Debug\UnitTest1.1.exp
+  UnitTest1.1.vcxproj -> F:\ООП\Тема 1\Lab_1.1_\Lab_1.1\Debug\UnitTest1.1.dll

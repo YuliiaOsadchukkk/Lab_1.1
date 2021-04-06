@@ -1,0 +1,4 @@
+﻿  main.cpp
+F:\ООП\Тема 1\Lab_1.1_\Lab_1.1\Lab_1.1\main.cpp(9,23): warning C4244: 'argument': conversion from 'const double' to 'const float', possible loss of data
+F:\ООП\Тема 1\Lab_1.1_\Lab_1.1\Lab_1.1\main.cpp(29,24): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  Lab_1.1.vcxproj -> F:\ООП\Тема 1\Lab_1.1_\Lab_1.1\Debug\Lab_1.1.exe
